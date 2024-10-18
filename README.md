@@ -1,4 +1,4 @@
-# Dataset Pruning for Transfer Learning [NeurIPS 2023]
+# Dataset Pruning for Transfer Learning
 
 Welcome to the official implementation of the paper [Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning](). This work introduces two innovative dataset pruning techniques: Label Mapping (LM) and Feature Mapping (FM), leveraging source-target domain mapping.
 
