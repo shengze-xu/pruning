@@ -10,7 +10,7 @@ You can install the necessary Python packages with:
 conda create -y -n ffcv python=3.9 cupy pkg-config libjpeg-turbo opencv pytorch torchvision cudatoolkit=11.3 numba -c pytorch -c conda-forge
 conda activate ffcv
 pip install ffcv
-```bash
+```
 
 ```bash
 pip install -r requirements.txt
